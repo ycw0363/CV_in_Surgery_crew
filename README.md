@@ -7,9 +7,9 @@ CV in Surgery crew .Pseudo-Lab (paper study, project)
 가짜연구소(@Pseudo-Lab)[[HomePage](https://pseudo-lab.com/)]를 통해 CV와 Surgery에 관심있는 구성원들로 모인 Crew 입니다.
 
 
-|[namkee]() | [chaewon](https://github.com/ycw0363) | [jaejun](https://github.com/ai-rtistic) | [hyunsu](https://github.com/hyuns1102) | [jungyo](https://github.com/JUNGYO) |  |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| | <img src="https://avatars.githubusercontent.com/u/80023607?v=4" width=100 > | <img src= "https://avatars.githubusercontent.com/u/84179578?v=4" width=100> | <img src= "https://avatars.githubusercontent.com/u/77105441?v=4" width=100> |<img src= "https://avatars.githubusercontent.com/u/20310433?v=4" width=100> | |
+|[namkee](https://github.com/namkeeoh) | [chaewon](https://github.com/ycw0363) | [jaejun](https://github.com/ai-rtistic) | [hyunsu](https://github.com/hyuns1102) | [jungyo](https://github.com/JUNGYO) | 
+|:---:|:---:|:---:|:---:|:---:|
+|<img src="https://avatars.githubusercontent.com/u/101532657?v=4" width=100> | <img src="https://avatars.githubusercontent.com/u/80023607?v=4" width=100 > | <img src= "https://avatars.githubusercontent.com/u/84179578?v=4" width=100> | <img src= "https://avatars.githubusercontent.com/u/77105441?v=4" width=100> |<img src= "https://avatars.githubusercontent.com/u/20310433?v=4" width=100> |
 
 | |  | |  |  | 
 |:---:|:---:|:---:|:---:|:---:|
