@@ -27,7 +27,7 @@ CV in Surgery crew .Pseudo-Lab (paper study, project)
 
 ### 3) 스터디 진행
 
-**-0-Introduction (3.13)**
+**- 0.Introduction (3.13)**
 
 
 
