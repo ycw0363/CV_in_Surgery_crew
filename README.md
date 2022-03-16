@@ -11,9 +11,9 @@ CV in Surgery crew .Pseudo-Lab (paper study, project)
 |:---:|:---:|:---:|:---:|:---:|
 |<img src="https://avatars.githubusercontent.com/u/101532657?v=4" width=100> | <img src="https://avatars.githubusercontent.com/u/80023607?v=4" width=100 > | <img src= "https://avatars.githubusercontent.com/u/84179578?v=4" width=100> | <img src= "https://avatars.githubusercontent.com/u/77105441?v=4" width=100> |<img src= "https://avatars.githubusercontent.com/u/20310433?v=4" width=100> |
 
-| |  | |  |  | 
+| [vvoo](https://github.com/official-vvoo) |  | |  |  | 
 |:---:|:---:|:---:|:---:|:---:|
-| |  |  |  | |
+| <img src="https://avatars.githubusercontent.com/u/84170049?v=4" width=100> |  |  |  | |
 
 
 
